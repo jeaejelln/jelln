@@ -1,0 +1,29 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    background-color: #fdd9e8;
+}
+
+h1{
+  font-family: 'Lobster';
+  font-weight: bold;
+  font-size: 48px;
+  color: #82004a;
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+
+.nav-link {
+  color: #ff007f;
+  font-weight: bold;
+  margin: 0px;
+  margin-left: 60px;
+  margin-top: -10px;
+}
+
+.table td, .table th {
+  color: #82004a;
+  font-size: 18px;
+  padding: 15px;
+  background-color: #f9caca;
+}

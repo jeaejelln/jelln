@@ -1,0 +1,49 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    float: right;
+    margin-right: 10%;
+    margin-top: 20%;
+}
+
+.info h1{
+    font-size: 50px;
+    font-style: bold;
+}
+
+body{
+    background-color: #b55d8e;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image{
+    float: left;
+    width: 35%;
+    margin-top: 4%;
+    margin-left: 50px;
+
+}
+
+.aboutme{
+    height: 745px;
+    display: flex;
+}
+
+.about{
+    position: absolute;
+    top: 3%;
+    left: 3%;
+}
+
+button{
+    float: right;
+    margin-right: 45%;
+    margin-top: -25%;
+}
+
